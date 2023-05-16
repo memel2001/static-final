@@ -1,0 +1,68 @@
+{
+    "countries": [
+      {
+        "name": "Japan",
+        "currency": "JPY",
+        "topProducts": [
+          {
+            "product": "Foundation",
+            "brand": "NYX",
+            "price": 3500
+          },
+          {
+            "product": "Mascara",
+            "brand": "Maybelline New York",
+            "price": 1800
+          },
+          {
+            "product": "Lipstick",
+            "brand": "Dior",
+            "price": 2500
+          }
+        ]
+      },
+      {
+        "name": "Romania",
+        "currency": "RON",
+        "topProducts": [
+          {
+            "product": "Eyeshadow Palette",
+            "brand": "Huda Beauty",
+            "price": 120
+          },
+          {
+            "product": "Blush",
+            "brand": "Benefit",
+            "price": 80
+          },
+          {
+            "product": "Lip Gloss",
+            "brand": "AVON",
+            "price": 50
+          }
+        ]
+      },
+      {
+        "name": "Lithuania",
+        "currency": "EUR",
+        "topProducts": [
+          {
+            "product": "Highlighter",
+            "brand": "Becca",
+            "price": 15.99
+          },
+          {
+            "product": "Eyeliner",
+            "brand": "Urban Decay",
+            "price": 9.99
+          },
+          {
+            "product": "Concealer",
+            "brand": "Catrice",
+            "price": 12.5
+          }
+        ]
+      }
+    ]
+  }
+  
